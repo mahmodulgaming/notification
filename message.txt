@@ -1,1 +1,2 @@
-hello ! test msg
+hello ! test in bot id
+
